@@ -10,7 +10,7 @@ class Post(models.Model):
 
     STATUS_CHOICES = (
         ("draft", "Draft"),
-        ("published", "Published")
+        ("published", "Published")jnksdlkokllx
     )
 
     # DB Fields
